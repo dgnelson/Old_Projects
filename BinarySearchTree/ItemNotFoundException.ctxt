@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ItemNotFoundException()
+comment0.text=\n\ Construct\ this\ exception\ object.\n
+comment1.params=message
+comment1.target=ItemNotFoundException(java.lang.String)
+comment1.text=\n\ Construct\ this\ exception\ object.\n\ @param\ message\ the\ error\ message.\n
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=xValue\ yValue
+comment0.target=Point(double,\ double)
+comment1.params=
+comment1.target=double\ getX()
+comment2.params=
+comment2.target=double\ getY()
+comment3.params=newX
+comment3.target=void\ setX(double)
+comment4.params=newY
+comment4.target=void\ setY(double)
+comment5.params=newX\ newY
+comment5.target=void\ setCoordinates(double,\ double)
+numComments=6

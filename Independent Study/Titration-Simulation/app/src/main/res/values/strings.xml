@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Titration-Simulation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sim_title">Acid Base Titration Simulation \n</string>
+    <string name="analyte">Analyte</string>
+    <string name="titrant">Titrant</string>
+    <string name="strongacid_weakbase">Strong Acid and Weak Base</string>
+    <string name="strongbase_weakacid">Strong Base and Weak Acid</string>
+    <string name="strongacid_strongbase">Strong Acid and Strong Base</string>
+    <string name="strongbase_strongacid">Strong Base and Strong Acid</string>
+    <string name="pick_titrant">Pick Tirant</string>
+    <string name="pick_analyte">Pick Analyte</string>
+    <string name="start_button">Start</string>
+    <string name="analyte_molarity">Molarity of Analyte: </string>
+    <string name="mol_unit">M</string>
+    <string name="initial_molarity">0.01</string>
+
+    <string-array name="weak_acids">
+        <item>Acetic Acid</item>
+        <item>Hydroflouric Acid</item>
+        <item>Hydrocyanic Acid</item>
+    </string-array>
+    <string-array name="weak_bases">
+        <item>Ammonia</item>
+        <item>Pyridine</item>
+        <item>Methylamine</item>
+    </string-array>
+    <string-array name="strong_acid">
+        <item>Hydrochloric Acid</item>
+    </string-array>
+    <string-array name="strong_base">
+        <item>Sodium Hydroxide</item>
+    </string-array>
+
+    <string name="add_titrant">add titrant</string>
+    <string name="filler_descriptor">insert experiment animation</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <string name="title_activity_titration">Titration</string>
+    <string name="title_activity_my_activity2">MyActivity2</string>
+
+</resources>

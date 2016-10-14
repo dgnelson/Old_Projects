@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HuffmanCompression()
+comment1.params=
+comment1.target=java.util.TreeMap\ countFrequencies()
+comment2.params=
+comment2.target=java.util.PriorityQueue\ makeHeap()
+comment3.params=
+comment3.target=BinaryNode\ buildTree()
+comment4.params=
+comment4.target=void\ makeIndexMap()
+comment5.params=node\ path
+comment5.target=void\ indexHelper(BinaryNode,\ java.lang.String)
+comment6.params=
+comment6.target=void\ compress()
+comment7.params=
+comment7.target=void\ decode()
+comment8.params=
+comment8.target=void\ byteCompress()
+comment9.params=
+comment9.target=void\ byteDecode()
+numComments=10

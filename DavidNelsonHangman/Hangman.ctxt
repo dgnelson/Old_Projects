@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hangman()
+comment1.params=
+comment1.target=void\ playHangman()
+comment2.params=
+comment2.target=void\ pickWord()
+comment3.params=
+comment3.target=void\ addLetter()
+comment4.params=
+comment4.target=void\ addBodyPart()
+comment5.params=
+comment5.target=void\ printWord()
+comment6.params=
+comment6.target=void\ printGuessedLetters()
+comment7.params=
+comment7.target=void\ youWin()
+comment8.params=
+comment8.target=void\ youLose()
+comment9.params=
+comment9.target=void\ printPicture()
+numComments=10

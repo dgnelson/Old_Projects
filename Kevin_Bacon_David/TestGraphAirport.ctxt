@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=SearchableGraph\ makeGraph()
+comment2.params=graph\ start\ end
+comment2.target=void\ fly(SearchableGraph,\ java.lang.String,\ java.lang.String)
+comment3.params=message\ graph\ path
+comment3.target=void\ printPath(java.lang.String,\ SearchableGraph,\ java.util.List)
+numComments=4

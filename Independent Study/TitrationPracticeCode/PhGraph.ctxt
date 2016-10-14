@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PhGraph()
+comment1.params=
+comment1.target=void\ onStart()
+comment2.params=theAnalyte\ theTitrant\ theAnalyteMolarity\ theCombo
+comment2.target=void\ setExperimentParameters(java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=void\ createData()
+comment4.params=titrantVolume
+comment4.target=float\ getPh(double)
+numComments=5

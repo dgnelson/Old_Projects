@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=v\ f\ l\ r
+comment0.target=BinaryNode(char,\ int,\ BinaryNode,\ BinaryNode)
+comment1.params=v\ f
+comment1.target=BinaryNode(char,\ int)
+comment10.params=r
+comment10.target=void\ setRight(BinaryNode)
+comment2.params=node
+comment2.target=int\ compareTo(java.lang.Object)
+comment3.params=
+comment3.target=char\ getVal()
+comment4.params=
+comment4.target=int\ getFrequency()
+comment5.params=
+comment5.target=BinaryNode\ getLeft()
+comment6.params=
+comment6.target=BinaryNode\ getRight()
+comment7.params=c
+comment7.target=void\ setVal(char)
+comment8.params=f
+comment8.target=void\ setFrequency(int)
+comment9.params=l
+comment9.target=void\ setLeft(BinaryNode)
+numComments=11

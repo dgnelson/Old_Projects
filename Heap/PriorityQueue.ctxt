@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=interface\ PriorityQueue
+comment1.params=
+comment1.target=E\ remove()
+comment2.params=
+comment2.target=E\ peekMin()
+comment3.params=obj
+comment3.target=boolean\ add(E)
+comment4.params=
+comment4.target=boolean\ isEmpty()
+numComments=5

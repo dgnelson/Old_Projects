@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BlackJack()
+comment1.params=
+comment1.target=void\ play()
+comment2.params=
+comment2.target=void\ takeBets()
+comment3.params=
+comment3.target=void\ dealCards()
+comment4.params=
+comment4.target=void\ printHands()
+comment5.params=
+comment5.target=void\ splitPrint()
+comment6.params=
+comment6.target=void\ hit()
+comment7.params=
+comment7.target=void\ split()
+comment8.params=
+comment8.target=void\ outcome()
+comment9.params=
+comment9.target=void\ resetTable()
+numComments=10

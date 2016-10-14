@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=choice
+comment0.target=RPSComponent(int)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=x
+comment2.target=void\ changeRPS(int)
+numComments=3

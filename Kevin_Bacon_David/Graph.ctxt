@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Graph()
+comment1.params=v
+comment1.target=void\ addVertex(java.lang.Object)
+comment2.params=v
+comment2.target=boolean\ containsVertex(java.lang.Object)
+comment3.params=v
+comment3.target=java.util.Collection\ neighbors(java.lang.Object)
+comment4.params=v1\ v2\ e
+comment4.target=void\ addEdge(java.lang.Object,\ java.lang.Object,\ java.lang.Object)
+comment5.params=v1\ v2\ e\ weight
+comment5.target=void\ addEdge(java.lang.Object,\ java.lang.Object,\ java.lang.Object,\ int)
+comment6.params=v1\ v2
+comment6.target=boolean\ containsEdge(java.lang.Object,\ java.lang.Object)
+comment7.params=v1\ v2
+comment7.target=java.lang.Object\ edge(java.lang.Object,\ java.lang.Object)
+comment8.params=v1\ v2
+comment8.target=int\ edgeWeight(java.lang.Object,\ java.lang.Object)
+numComments=9
